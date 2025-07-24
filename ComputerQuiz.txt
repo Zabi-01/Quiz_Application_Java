@@ -1,0 +1,20 @@
+Q1: What does CPU stand for?|A. Central Process Unit|B. Central Processing Unit|C. Computer Personal Unit|D. Central Peripheral Unit  
+Q2: Which of these is a programming language?|A. HTML|B. HTTP|C. FTP|D. SMTP  
+Q3: In object-oriented programming, which concept is represented by the term “inheritance”?|A. Creating classes|B. Using libraries|C. Acquiring properties from parent class|D. Compiling code  
+Q4: What is the result of 5 AND 3 in binary?|A. 0|B. 1|C. 2|D. 3  
+Q5: What does SQL stand for?|A. Structured Question Language|B. Strong Query Language|C. Structured Query Language|D. Sequential Query Language  
+Q6: Which of these is a non-volatile memory?|A. RAM|B. Cache|C. ROM|D. Register  
+Q7: What is the main function of the OS (Operating System)?|A. Word processing|B. Managing hardware and software resources|C. Compiling code|D. Browsing the web  
+Q8: What does HTTP stand for?|A. HyperText Transfer Protocol|B. HighText Transfer Protocol|C. Hyperlink Text Transfer Protocol|D. None of these  
+Q9: Which data structure uses FIFO (First In First Out)?|A. Stack|B. Queue|C. Tree|D. Graph  
+Q10: Which sorting algorithm is considered the fastest in average cases?|A. Bubble Sort|B. Selection Sort|C. Quick Sort|D. Insertion Sort  
+Q11: What is a function in programming?|A. A piece of code that performs a specific task|B. A variable|C. A compiler|D. An object  
+Q12: Which of the following is not an operating system?|A. Linux|B. Windows|C. Oracle|D. MacOS  
+Q13: What is recursion in programming?|A. A function calling itself|B. A loop|C. An error|D. None of these  
+Q14: What is the time complexity of binary search in the worst case?|A. O(1)|B. O(n)|C. O(log n)|D. O(n log n)  
+Q15: What does IP stand for in networking?|A. Internet Protocol|B. Internal Process|C. Internet Provider|D. Initial Packet  
+Q16: Which of these is not a relational database?|A. MySQL|B. Oracle|C. MongoDB|D. PostgreSQL  
+Q17: What does IDE stand for?|A. Integrated Design Environment|B. Integrated Development Environment|C. Internal Design Environment|D. Internal Development Environment  
+Q18: Which of the following is an interpreted language?|A. C++|B. Java|C. Assembly|D. Python  
+Q19: What is the primary use of a compiler?|A. Interpret code line-by-line|B. Run the program|C. Convert high-level code to machine code|D. Manage memory  
+Q20: Which logic gate gives true output only when inputs are different?|A. AND|B. OR|C. NOR|D. XOR  

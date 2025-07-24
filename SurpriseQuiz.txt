@@ -1,0 +1,20 @@
+Q1. The mean and variance of the data set: 1, 2, 4, 7, 11 $A. Mean = 5, Var = 16.8 $B. Mean = 5, Var = 13.2 $C. Mean = 4.8, Var = 16.7 $D. Mean = 5, Var = 17.5
+Q2. سر سید نے "تہذیب الاخلاق" کیوں جاری کی؟ $A. اصلاح معاشرہ $B. سیاسی آگہی $C. مذہبی تعلیم $D. علمی تحریک 
+Q3. The dimensional formula of resistance is: $A. ML²T⁻³A⁻² $B. MLT⁻²A⁻² $C. M²L⁻²T⁻³A⁻² $D. ML²T⁻²A⁻²
+Q4. What is the time complexity of QuickSort in the worst case? $A. O(n log n) $B. O(n^2) $C. O(log n) $D. O(n)
+Q5. 1 kilogram = ? grams $A. 10 $B. 100 $C. 1000 $D. 10000 
+Q6. Which is a bird? $A. Lion $B. Dog $C. Sparrow $D. Elephant
+Q7. Which is a day of the week? $A. Sun $B. Monday $C. Moon $D. Year
+Q8. ∫(sin x)/(1 + cos x) dx = ? $A. ln|1+cosx| $B. tan(x/2) $C. -ln|cosec x + cot x| $D. -ln|1+cosx|
+Q9. The velocity of light in a medium is 2×10⁸ m/s. Its refractive index is: $A. 1.33 $B. 1.5 $C. 1.66 $D. 2  
+Q10. Lenz’s law is based on conservation of: $A. Mass $B. Energy $C. Charge $D. Current
+Q11. "کلیاتِ اقبال" میں کتنی کتابیں شامل ہیں؟ $A. 3 $B. 4 $C. 5 $D. 6 
+Q12. "مسدس حالی" کا موضوع کیا ہے؟ $A. علم $B. قوم کی حالت $C. عشق $D. طنز 
+Q13. If A = [[2, -1], [5, 3]], then find A⁻¹ $A. [[3,1],[5,2]] $B. [[3,1],[-5,-2]] $C. [[3,1],[1,2]] $D. [[3,-1],[-5,2]]
+Q14. Magnetic flux has the same units as: $A. Electric field $B. Work $C. Potential $D. Magnetic field × Area
+Q15. Solve: log₃(81) = ? $A. 4 $B. 3 $C. 2 $D. 1
+Q16. Derivative of x sin x $A. sin x + x cos x $B. sin x - x cos x $C. cos x + sin x $D. x sin x
+Q17. IPv6 addresses are made up of how many bits? $A. 32 $B. 64 $C. 128 $D. 256
+Q18. What is the extension of a Python file? $A. .java $B. .py $C. .cpp $D. .html
+Q19. What is half of 50? $A. 20 $B. 25 $C. 30 $D. 15
+Q20. Water freezes at: $A. 0°C $B. 100°C $C. -10°C $D. 10°C

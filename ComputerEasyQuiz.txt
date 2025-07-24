@@ -1,0 +1,20 @@
+Q1. Which device shows output? $A. Keyboard $B. Mouse $C. Monitor $D. Scanner  
+Q2. Which one is an input device? $A. Mouse $B. Printer $C. Speaker $D. Projector  
+Q3. What is used to type letters? $A. Mouse $B. Monitor $C. Keyboard $D. CPU  
+Q4. Which part stores files? $A. RAM $B. ROM $C. Hard Disk $D. Mouse  
+Q5. Which one is software? $A. Mouse $B. Keyboard $C. Windows $D. CPU  
+Q6. The full form of CPU is: $A. Central Processing Unit $B. Central Process Union $C. Computer Part Unit $D. Central Power Unit  
+Q7. What is the function of a printer? $A. Input $B. Output $C. Storage $D. Processing  
+Q8. Which device is used to move the cursor? $A. Keyboard $B. Monitor $C. Mouse $D. Printer  
+Q9. Which one is a file extension? $A. .exe $B. exx $C. eex $D. xxe  
+Q10. Which one is NOT hardware? $A. Monitor $B. Mouse $C. Excel $D. Keyboard  
+Q11. What do we call a collection of 8 bits? $A. Bit $B. Byte $C. Kilobyte $D. Megabyte  
+Q12. The main function of a computer is to: $A. Paint $B. Cook $C. Process data $D. Sleep  
+Q13. Which of the following is used to store data? $A. RAM $B. ROM $C. Hard Disk $D. All of these  
+Q14. Windows is a type of: $A. Hardware $B. Application $C. Operating System $D. Virus  
+Q15. Which one is an example of storage device? $A. Monitor $B. Pen Drive $C. CPU $D. Printer  
+Q16. The Internet is a: $A. Book $B. Website $C. Network $D. Device  
+Q17. Ctrl + S is used to: $A. Paste $B. Save $C. Print $D. Copy  
+Q18. Gmail is used for: $A. Calling $B. Messaging $C. Sending Emails $D. Watching Videos  
+Q19. A computer runs on: $A. Petrol $B. Water $C. Electricity $D. Air  
+Q20. MS Paint is used for: $A. Typing $B. Calculating $C. Drawing $D. Browsing  

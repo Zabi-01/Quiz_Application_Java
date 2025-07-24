@@ -1,0 +1,20 @@
+Q1: What is the SI unit of force?|A. Newton|B. Joule|C. Watt|D. Pascal  
+Q2: Which law explains the relationship between voltage, current, and resistance?|A. Newton’s Law|B. Hooke’s Law|C. Ohm’s Law|D. Coulomb’s Law  
+Q3: What is the acceleration due to gravity on Earth?|A. 8.9 m/s²|B. 9.8 m/s²|C. 10 m/s²|D. 9.2 m/s²  
+Q4: The area under a velocity-time graph represents what?|A. Acceleration|B. Speed|C. Displacement|D. Jerk  
+Q5: Which of the following is a scalar quantity?|A. Force|B. Displacement|C. Velocity|D. Temperature  
+Q6: What is the speed of light in vacuum?|A. 3×10⁸ m/s|B. 1.5×10⁸ m/s|C. 3×10⁶ m/s|D. 5×10⁷ m/s  
+Q7: The unit of electric charge is?|A. Volt|B. Ohm|C. Ampere|D. Coulomb  
+Q8: Who proposed the three laws of motion?|A. Einstein|B. Newton|C. Galileo|D. Faraday  
+Q9: Which phenomenon explains the blue color of the sky?|A. Reflection|B. Diffraction|C. Scattering|D. Interference  
+Q10: What type of mirror is used in car headlights?|A. Convex|B. Plane|C. Concave|D. None  
+Q11: Which particle has a negative charge?|A. Proton|B. Neutron|C. Electron|D. Alpha Particle  
+Q12: What is the frequency of a wave if the wavelength is 2m and the speed is 10 m/s?|A. 5 Hz|B. 10 Hz|C. 20 Hz|D. 2 Hz  
+Q13: Which physical quantity is conserved in elastic collision?|A. Energy only|B. Momentum only|C. Both momentum and kinetic energy|D. Mass only  
+Q14: What is measured in decibels (dB)?|A. Sound intensity|B. Frequency|C. Wavelength|D. Voltage  
+Q15: Which of the following is a non-renewable energy source?|A. Wind|B. Solar|C. Coal|D. Hydropower  
+Q16: In which direction does heat flow naturally?|A. Cold to hot|B. Hot to cold|C. In any direction|D. No direction  
+Q17: What is the work done when the displacement is zero?|A. Maximum|B. Minimum|C. Zero|D. Infinite  
+Q18: The device used to measure current is called?|A. Voltmeter|B. Ammeter|C. Ohmmeter|D. Barometer  
+Q19: What is the dimensional formula of force?|A. [M L T⁻²]|B. [M L² T⁻¹]|C. [M T⁻²]|D. [M L T]  
+Q20: Which principle is used in hydraulic brakes?|A. Pascal’s Law|B. Archimedes’ Principle|C. Bernoulli’s Principle|D. Newton’s 3rd Law  

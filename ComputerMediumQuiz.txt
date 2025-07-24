@@ -1,0 +1,20 @@
+Q1. What is the function of RAM in a computer? $A. Stores data permanently $B. Executes programs $C. Temporary storage $D. Manages files  
+Q2. Which part of the CPU performs arithmetic operations? $A. CU $B. Register $C. ALU $D. Cache  
+Q3. Which is NOT a programming language? $A. Python $B. HTML $C. Java $D. C++  
+Q4. Which of the following is a search engine? $A. Facebook $B. Google $C. WhatsApp $D. Windows  
+Q5. Shortcut to copy in Windows is: $A. Ctrl+V $B. Ctrl+C $C. Ctrl+X $D. Ctrl+Z  
+Q6. What type of software is MS Excel? $A. Operating System $B. System Software $C. Application Software $D. Programming Tool  
+Q7. What does URL stand for? $A. Uniform Return Link $B. Universal Record Locator $C. Uniform Resource Locator $D. Unified Resource Log  
+Q8. Which one is an input device? $A. Printer $B. Monitor $C. Scanner $D. Speaker  
+Q9. What is the extension of a Python file? $A. .java $B. .py $C. .cpp $D. .html  
+Q10. What is the brain of the computer? $A. RAM $B. Hard Disk $C. CPU $D. SSD  
+Q11. Which one is not a type of malware? $A. Trojan $B. Worm $C. Firewall $D. Spyware  
+Q12. Binary code uses how many digits? $A. 10 $B. 16 $C. 2 $D. 4  
+Q13. What does GUI stand for? $A. Global User Interface $B. Graphic Unit Interaction $C. Graphical User Interface $D. General Use Interface  
+Q14. Which device connects a network to the Internet? $A. Switch $B. Router $C. Hub $D. CPU  
+Q15. Which key is used to refresh a page in a browser? $A. F1 $B. F5 $C. F9 $D. Esc  
+Q16. Which programming language is used for web development? $A. HTML $B. C $C. Assembly $D. Pascal  
+Q17. Which memory is volatile? $A. ROM $B. Hard Drive $C. RAM $D. SSD  
+Q18. What does HTML stand for? $A. High Text Machine Language $B. HyperText Markup Language $C. Hyper Tabular Mark Language $D. None  
+Q19. What kind of device is a keyboard? $A. Output $B. Storage $C. Input $D. Processing  
+Q20. What is the shortcut to paste text? $A. Ctrl+C $B. Ctrl+X $C. Ctrl+V $D. Ctrl+S  

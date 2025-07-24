@@ -1,0 +1,20 @@
+Q1. Evaluate: ∫(2x + 1)/(x² + x + 1) dx $A. ln(x² + x + 1) $B. (1/2)ln(x² + x + 1) $C. ln(x + 1) $D. ln|x² + 1|  
+Q2. Derivative of x sin x $A. sin x + x cos x $B. sin x - x cos x $C. cos x + sin x $D. x sin x  
+Q3. If A = [[3,2],[1,4]], then det(A) = ? $A. 12 $B. 10 $C. 14 $D. 7  
+Q4. Find dy/dx if y = ln(x² + 1) $A. 2x/(x² + 1) $B. 1/(x² + 1) $C. x²/(x² + 1) $D. x/(x² + 1)  
+Q5. Evaluate lim(x→∞) (x + 1)/√(x² + 2x + 1) $A. 1 $B. ∞ $C. 0 $D. 2  
+Q6. Solve: d²y/dx² = 0 $A. y = Ax + B $B. y = A $C. y = Ax² + Bx + C $D. y = Ae^x  
+Q7. Evaluate: ∫ dx/(1 + x²) $A. tan⁻¹x + C $B. sin⁻¹x + C $C. cos⁻¹x + C $D. sec⁻¹x + C  
+Q8. Area under y = x² from x = 0 to 2 $A. 4/3 $B. 8/3 $C. 2 $D. 2/3  
+Q9. The slope of tangent to y = 3x² - 2x + 1 at x = 1 $A. 2 $B. 3 $C. 4 $D. 1  
+Q10. If cos A = 3/5, find sin A $A. 4/5 $B. 4/3 $C. 5/3 $D. 3/4  
+Q11. Evaluate: ∫ (x² + 1)/(x + 1) dx $A. x - 2 + ln|x + 1| $B. x + 2 + ln|x + 1| $C. x - 1 + ln|x + 1| $D. x² + ln|x + 1|  
+Q12. Find general solution of cos 2x = 1/2 $A. x = π/6 + nπ $B. x = π/3 + nπ $C. x = π/4 + nπ $D. x = π/2 + nπ  
+Q13. Matrix [[a, b], [c, d]] is invertible if $A. ad - bc ≠ 0 $B. ab - cd = 0 $C. a + d = 0 $D. a = d  
+Q14. ∫ tan x dx = ? $A. ln|sec x| + C $B. ln|cos x| + C $C. ln|sin x| + C $D. ln|tan x| + C  
+Q15. If y = e^(2x), then dy/dx = ? $A. 2e^(2x) $B. e^x $C. e^(2x) $D. 2e^x  
+Q16. dy/dx = y, y(0) = 1 ⇒ y = ? $A. e^x $B. ln x $C. x² $D. 1  
+Q17. If f(x) = |x|, then f′(x) is not defined at $A. x = 0 $B. x = 1 $C. x = -1 $D. x = 2  
+Q18. Solve: log₃(81) = ? $A. 4 $B. 3 $C. 2 $D. 1  
+Q19. If sin θ = 5/13, find cos θ (θ in 1st quadrant) $A. 12/13 $B. 5/12 $C. 13/12 $D. 12/5  
+Q20. If a matrix has all elements zero, it's called $A. Zero matrix $B. Unit matrix $C. Identity matrix $D. Singular matrix  

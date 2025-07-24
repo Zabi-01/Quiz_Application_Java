@@ -1,0 +1,20 @@
+Q1. The dimensional formula of Planck's constant is: $A. ML²T⁻¹ $B. ML²T⁻² $C. MLT⁻¹ $D. ML⁻¹T⁻²  
+Q2. In quantum mechanics, the uncertainty principle is attributed to: $A. Bohr $B. Planck $C. Schrödinger $D. Heisenberg  
+Q3. The energy equivalent of 1 atomic mass unit (amu) is approximately: $A. 931 MeV $B. 1.6 × 10⁻¹⁹ J $C. 13.6 eV $D. 1 MeV  
+Q4. In Young's double slit experiment, if the distance between slits is doubled, the fringe width: $A. Doubles $B. Halves $C. Becomes four times $D. Remains same  
+Q5. A Carnot engine operates between 500K and 300K. Its efficiency is: $A. 40% $B. 60% $C. 33% $D. 50%  
+Q6. In a semiconductor, conductivity increases with: $A. Decrease in temperature $B. Increase in temperature $C. Constant temperature $D. Pressure  
+Q7. Magnetic flux has the same units as: $A. Electric field $B. Work $C. Potential $D. Magnetic field × Area  
+Q8. The focal length of a plano-convex lens in air is 20 cm. What is it in water (n = 4/3)? $A. 60 cm $B. 26.6 cm $C. 15 cm $D. 20 cm  
+Q9. The velocity of light in a medium is 2×10⁸ m/s. Its refractive index is: $A. 1.33 $B. 1.5 $C. 1.66 $D. 2  
+Q10. The escape velocity from Earth's surface is approximately: $A. 7.9 km/s $B. 11.2 km/s $C. 12.8 km/s $D. 9.8 km/s  
+Q11. Which law governs the force between two magnetic poles? $A. Ampere’s Law $B. Faraday’s Law $C. Coulomb’s Law $D. Lenz’s Law  
+Q12. In SHM, the ratio of max acceleration to max velocity is: $A. 1/ω $B. ω $C. a $D. v  
+Q13. Kirchhoff's 2nd law is based on conservation of: $A. Energy $B. Charge $C. Mass $D. Momentum  
+Q14. The critical angle for water-air interface is approximately: $A. 42° $B. 48° $C. 50° $D. 62°  
+Q15. Which particle has zero rest mass? $A. Neutron $B. Proton $C. Photon $D. Electron  
+Q16. Photoelectric effect proves the: $A. Wave nature of light $B. Particle nature of light $C. Reflection property $D. Diffraction  
+Q17. In nuclear fusion, energy is released due to: $A. Mass destruction $B. Increase in mass $C. Mass defect $D. Electron transfer  
+Q18. Lenz’s law is based on conservation of: $A. Mass $B. Energy $C. Charge $D. Current  
+Q19. The minimum wavelength of X-rays corresponds to: $A. Maximum frequency $B. Minimum energy $C. Minimum frequency $D. Maximum amplitude  
+Q20. The dimensional formula of resistance is: $A. ML²T⁻³A⁻² $B. MLT⁻²A⁻² $C. M²L⁻²T⁻³A⁻² $D. ML²T⁻²A⁻²  

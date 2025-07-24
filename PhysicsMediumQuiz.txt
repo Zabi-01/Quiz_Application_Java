@@ -1,0 +1,20 @@
+Q1. Unit of electric field is: $A. Volt $B. Newton $C. N/C $D. Ampere  
+Q2. Acceleration is defined as: $A. Rate of change of speed $B. Rate of change of velocity $C. Speed × Time $D. Distance / Time  
+Q3. The SI unit of frequency is: $A. Newton $B. Hertz $C. Joule $D. Ampere  
+Q4. Which quantity is scalar? $A. Force $B. Acceleration $C. Displacement $D. Speed  
+Q5. Which law is represented by F = ma? $A. Newton’s 1st Law $B. Newton’s 2nd Law $C. Newton’s 3rd Law $D. Law of Inertia  
+Q6. Which instrument is used to measure potential difference? $A. Ammeter $B. Voltmeter $C. Galvanometer $D. Ohmmeter  
+Q7. A freely falling body accelerates at: $A. 10 m/s² $B. 9.8 m/s² $C. 8 m/s² $D. 9 m/s²  
+Q8. Unit of power is: $A. Joule $B. Watt $C. Volt $D. Coulomb  
+Q9. Ohm’s law gives the relation between: $A. V and Q $B. I and T $C. V and I $D. P and E  
+Q10. Unit of capacitance is: $A. Ohm $B. Coulomb $C. Volt $D. Farad  
+Q11. Lens used in magnifying glass is: $A. Concave $B. Convex $C. Cylindrical $D. Plane  
+Q12. Which one is a vector quantity? $A. Distance $B. Speed $C. Work $D. Displacement  
+Q13. The unit of work is: $A. Newton $B. Watt $C. Joule $D. Pascal  
+Q14. Which wave is used in RADAR? $A. Radio $B. Microwave $C. Infrared $D. Gamma  
+Q15. 1 horse power is equal to: $A. 746 W $B. 736 W $C. 796 W $D. 706 W  
+Q16. What is the speed of light in vacuum? $A. 3×10⁸ m/s $B. 3×10⁷ m/s $C. 2×10⁸ m/s $D. 2×10⁷ m/s  
+Q17. The power of lens is measured in: $A. Watt $B. Dioptre $C. Joule $D. Henry  
+Q18. The smallest unit of charge is: $A. Coulomb $B. Ampere $C. Electron $D. Volt  
+Q19. The resistance of a wire is directly proportional to: $A. Length $B. Area $C. Voltage $D. Temperature only  
+Q20. Unit of pressure is: $A. Pascal $B. Joule $C. Watt $D. Newton  

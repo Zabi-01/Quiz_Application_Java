@@ -1,0 +1,20 @@
+Q1. What is the time complexity of QuickSort in the worst case? $A. O(n log n) $B. O(n^2) $C. O(log n) $D. O(n)  
+Q2. Which of the following is NOT a type of Operating System? $A. Real-Time $B. Time-Sharing $C. Batch $D. Java-Based  
+Q3. In DBMS, which of the following normal forms removes transitive dependency? $A. 1NF $B. 2NF $C. 3NF $D. BCNF  
+Q4. Which protocol is used to retrieve emails from a remote server to a local client? $A. SMTP $B. IMAP $C. FTP $D. SSH  
+Q5. Which logic gate gives a HIGH output only when all inputs are LOW? $A. NOR $B. NAND $C. XOR $D. AND  
+Q6. Which scheduling algorithm may lead to starvation? $A. First Come First Serve $B. Round Robin $C. Shortest Job Next $D. Multilevel Queue  
+Q7. Which of the following is used for resolving domain names to IP addresses? $A. HTTP $B. DHCP $C. DNS $D. ARP  
+Q8. In networking, what is the function of a gateway? $A. To connect two different networks $B. To assign IP addresses $C. To secure the network $D. To repeat signals  
+Q9. What is the default port for HTTPS? $A. 443 $B. 80 $C. 21 $D. 22  
+Q10. A compiler is: $A. Hardware $B. System Software $C. Application Software $D. Interpreter  
+Q11. In computer architecture, what does ALU stand for? $A. Arithmetic Logic Unit $B. Advanced Logic Unit $C. Array Logic Utility $D. Analog Logic Unit  
+Q12. The hexadecimal equivalent of binary 11010111 is: $A. D7 $B. A7 $C. C6 $D. D6  
+Q13. Which command is used to display disk usage in Linux? $A. ls $B. df $C. cp $D. ps  
+Q14. In object-oriented programming, polymorphism means: $A. Using the same method name with different definitions $B. Hiding data $C. Inheriting from multiple classes $D. Grouping objects  
+Q15. IPv6 addresses are made up of how many bits? $A. 32 $B. 64 $C. 128 $D. 256  
+Q16. The maximum length of a filename in Windows is: $A. 128 characters $B. 255 characters $C. 260 characters $D. 512 characters  
+Q17. Which of these is not a NoSQL database? $A. MongoDB $B. Cassandra $C. Redis $D. Oracle  
+Q18. What does BIOS stand for? $A. Basic Integrated Operating System $B. Basic Input Output System $C. Binary Input Output Service $D. Base I/O Scheme  
+Q19. In C++, “new” keyword is used for: $A. Looping $B. File Handling $C. Memory Allocation $D. Importing Libraries  
+Q20. RAID 5 provides: $A. No redundancy $B. Mirroring $C. Striping with parity $D. Only striping  

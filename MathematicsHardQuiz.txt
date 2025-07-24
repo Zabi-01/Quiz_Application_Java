@@ -1,0 +1,20 @@
+Q1. Evaluate: ∫(0 to 1) (ln x)² dx $A. -2 $B. 2 $C. -1 $D. 1  
+Q2. If A = [[2, -1], [5, 3]], then find A⁻¹ $A. [[3,1],[5,2]] $B. [[3,1],[-5,-2]] $C. [[3,1],[1,2]] $D. [[3,-1],[-5,2]]  
+Q3. If y = x^x, then dy/dx = ? $A. x^x(1+lnx) $B. x^x(lnx - 1) $C. x^x(lnx) $D. x^x(1-ln x)  
+Q4. Find the eccentricity of the ellipse x²/16 + y²/9 = 1 $A. √7/4 $B. 3/4 $C. 1/2 $D. √7/3  
+Q5. Evaluate lim (x→0) (1 - cosx²)/x⁴ $A. 1/2 $B. 1 $C. 0 $D. ∞  
+Q6. Solution of d²y/dx² - 2dy/dx + y = e^x $A. (Ax + B)e^x + xe^x $B. Ae^x + Be^x + xe^x $C. (Ax² + Bx)e^x $D. (A + Bx)e^x + xe^x  
+Q7. Radius of curvature at (1,1) for the curve x² + y² = 2xy $A. 2√2 $B. 1/√2 $C. 2 $D. 3  
+Q8. ∫(sin x)/(1 + cos x) dx = ? $A. ln|1+cosx| $B. tan(x/2) $C. -ln|cosec x + cot x| $D. -ln|1+cosx|  
+Q9. Evaluate: ∫(x² + 1)/(x⁴ + 1) dx $A. arctan(x) $B. (1/2)ln(x² + 1) $C. arctan(x²) $D. ln(x⁴ + 1)  
+Q10. Solve: dy/dx = y + e^x $A. y = Ae^x - xe^x $B. y = Ae^x - e^x $C. y = Ae^x + e^x $D. y = Ae^x + xe^x  
+Q11. Evaluate: ∫(0 to π) x sin x dx $A. 0 $B. π $C. π² $D. 2π  
+Q12. If A² = I, then det(A) = ? $A. 1 or -1 $B. 0 or 1 $C. 2 or -2 $D. Any real number  
+Q13. The solution of the differential equation dy/dx = (x + y + 1)² is: $A. Implicit only $B. Linear $C. Exact $D. Homogeneous  
+Q14. The angle between curves y = x² and y² = x³ at origin is: $A. π/4 $B. π/2 $C. 0 $D. Undefined  
+Q15. Equation of normal to the curve y = x³ - 3x at (1,-2) is: $A. y + 2 = -1(x - 1) $B. y + 2 = 3(x - 1) $C. y + 2 = -3(x - 1) $D. y + 2 = x - 1  
+Q16. Find center and radius of circle: x² + y² - 4x + 6y + 3 = 0 $A. (2,-3), √16 $B. (2,-3), √13 $C. (-2,3), √13 $D. (-2,3), √16  
+Q17. If y = cos⁻¹(x), then dy/dx = ? $A. -1/√(1 - x²) $B. 1/√(1 - x²) $C. √(1 - x²) $D. -√(1 - x²)  
+Q18. For hyperbola x²/9 - y²/4 = 1, distance between foci is: $A. 6 $B. 2√13 $C. 2√5 $D. 4  
+Q19. Evaluate: ∫ dx/(x√(x² - 1)) $A. sec⁻¹x + C $B. tan⁻¹x + C $C. ln|x + √(x² - 1)| + C $D. cos⁻¹x + C  
+Q20. The mean and variance of the data set: 1, 2, 4, 7, 11 $A. Mean = 5, Var = 16.8 $B. Mean = 5, Var = 13.2 $C. Mean = 4.8, Var = 16.7 $D. Mean = 5, Var = 17.5  
